@@ -1,0 +1,11 @@
+.text{
+    @apply font-montserrat font-medium
+}
+
+.text-primary{
+    @apply text text-sky-700
+}
+
+.text-secondary{
+    @apply text text-gray-400
+}

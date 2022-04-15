@@ -1,0 +1,12 @@
+.profile{
+    @apply flex items-center p-2 m-2  w-96 h-20 hover:cursor-pointer
+}
+
+.profile-img{
+    @apply w-14 h-14 rounded-full shadow-md
+}
+
+.profile-box{
+    @apply text-left mx-4
+}
+
