@@ -1,5 +1,5 @@
 .profile{
-    @apply flex items-center p-2 m-2  w-96 h-20 hover:cursor-pointer
+    @apply flex items-center p-2 m-2  w-96 h-20 hover:cursor-pointer hover:scale-110 duration-100
 }
 
 .profile-img{

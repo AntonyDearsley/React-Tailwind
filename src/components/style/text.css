@@ -7,5 +7,9 @@
 }
 
 .text-secondary{
-    @apply text text-gray-400
+    @apply text text-gray-500
+}
+
+.tittle{
+    @apply font-montserrat font-extrabold text-3xl my-2
 }
